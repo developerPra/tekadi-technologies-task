@@ -1,0 +1,199 @@
+// ****** importing Variabels *****
+@import "variables";
+
+// Text-Colors Of Courses
+.text-course1 {
+    color: $course1;
+
+    &:hover {
+        color: $course1 !important;
+    }
+}
+
+.text-course2 {
+    color: $course2;
+
+    &:hover {
+        color: $course2 !important;
+    }
+}
+
+.text-course3 {
+    color: $course3;
+
+    &:hover {
+        color: $course3 !important;
+    }
+}
+
+.text-course4 {
+    color: $course4;
+
+    &:hover {
+        color: $course4 !important;
+    }
+}
+
+.text-course5 {
+    color: $course5;
+
+    &:hover {
+        color: $course5 !important;
+    }
+}
+
+.text-course6 {
+    color: $course6;
+
+    &:hover {
+        color: $course6 !important;
+    }
+}
+
+// BG Colors of Courses
+.bg-course1 {
+    background-color: $course1;
+}
+
+.bg-course2 {
+    background-color: $course2;
+}
+
+.bg-course3 {
+    background-color: $course3;
+}
+
+.bg-course4 {
+    background-color: $course4;
+}
+
+.bg-course5 {
+    background-color: $course5;
+}
+
+.bg-course6 {
+    background-color: $course6;
+}
+
+//text-colors
+.text-clr1 {
+    color: $main-clr1;
+}
+
+.text-clr2 {
+    color: $main-clr2;
+}
+
+.text-primary {
+    color: #3399FF !important;
+}
+
+// Buttons
+.btn-primary {
+    background-color: $primary;
+    border: none;
+    font-size: 1.2rem;
+
+    &:hover {
+        background-color: $primary-hover;
+    }
+}
+
+.underline {
+    border-bottom: 2px solid rgba(0, 0, 0, 0.2);
+    padding-top: 2px;
+}
+
+// Font Sizes
+.fs-11 {
+    font-size: .70rem;
+}
+
+.fs-12 {
+    font-size: .75rem;
+}
+
+.fs-13 {
+    font-size: .8125rem;
+}
+
+.fs-14 {
+    font-size: .875rem;
+}
+
+.fs-15 {
+    font-size: .9375rem;
+}
+
+.fs-16 {
+    font-size: 1rem;
+}
+
+.fs-17 {
+    font-size: 1.0625rem;
+}
+
+.fs-18 {
+    font-size: 1.125rem;
+}
+
+.fs-19 {
+    font-size: 1.1875rem;
+}
+
+.fs-20 {
+    font-size: 1.25rem;
+}
+
+.fs-22 {
+    font-size: 1.375rem;
+}
+
+.fs-24 {
+    font-size: 1.5rem;
+}
+
+// Font Weights
+.fwb {
+    font-weight: bold;
+}
+
+.fw200 {
+    font-weight: 200;
+}
+
+.fw500 {
+    font-weight: 500;
+}
+
+.fw600 {
+    font-weight: 600;
+}
+
+// letter Spacings
+.ltr-spc-1 {
+    letter-spacing: 1;
+}
+
+.ltr-spc-2 {
+    letter-spacing: 2;
+}
+
+.ltr-spc-4 {
+    letter-spacing: 4 !important;
+}
+
+// *********** BG Colors ***************
+.bg-clr1 {
+    background-color: $main-clr1;
+}
+
+.bg-clr2 {
+    background-color: $main-clr2;
+}
+
+// Headings
+h3 {
+    font-family: 'Nunito', sans-serif;
+    font-weight: 600;
+}
